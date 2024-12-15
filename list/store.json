@@ -8,7 +8,7 @@
 		"title": "SSLUNPIN",
 		"type": "Frida",
 		"version": "1.0.0",
-		"url": "https://raw.githubusercontent.com/bcmdy/JsHook-Script-Repo/master/Scripts/B2B Extinction/Frida.js",
+		"url": "https://raw.githubusercontent.com/revdevz/unpinssl/refs/heads/main/script/ssl2.js",
 		"desc": "UNPINING",
 		"down_count": 1
 	}

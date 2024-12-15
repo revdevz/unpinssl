@@ -1,7 +1,7 @@
 {
     "name": "SSLUNPIN",
     "icon": "",
-    "list": "https://raw.githubusercontent.com/bcmdy/JsHook-Script-Repo/master/Store.json",
+    "list": "https://raw.githubusercontent.com/revdevz/unpinssl/refs/heads/main/list/store.json",
     "push": "",
     "markdown": "",
     "group_qq": "",
